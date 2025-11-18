@@ -166,7 +166,7 @@
     /* width: 0; */
     border-right: 1px solid rgba(255, 255, 255, .75); 
     animation: 
-        typing-loop 10s steps(40) 6s infinite, 
+        typing-loop 8s steps(50) 6s infinite, 
         blinking-cursor .75s step-end infinite;
 }
 
