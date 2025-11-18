@@ -1,5 +1,12 @@
 /*********** PAGE ONE/LANDING PAGE ***********/
+.rocketship-svg {
+    width: 1.5rem;
+    color: white; margin-right: .5rem;
+}
 
+.formblock1 {
+
+}
 /* header */
 header {
     padding-top: 1rem;
@@ -97,7 +104,7 @@ header img {
 }
 
 .section-one .flex-container:nth-of-type(2)>div {
-    margin-right: 1rem;
+    margin-right: .75rem;
     flex-shrink: 0;
 }
 
